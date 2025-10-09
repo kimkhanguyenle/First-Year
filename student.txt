@@ -1,0 +1,5 @@
+John Smith    VDIT     4000.0	500.00
+Diana Ross    TDIT     2701.0	600.00
+Gopal Singh    EES4200     10000.0	5000.00	
+David Copperfield    ECB3244     6000.0	800.00
+Jane Gedds    ENE3101     4000.0	250.00
